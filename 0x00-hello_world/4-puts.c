@@ -1,2 +1,2 @@
 #!/bin/bash
-gcc -d printf
+gcc -puts "Programming is like building a multilingual puzzle
