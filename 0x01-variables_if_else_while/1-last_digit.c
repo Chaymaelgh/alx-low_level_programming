@@ -4,7 +4,7 @@
 
 /**
  * main - Print the last digit and compare
- * Return/ Always (Success)
+ * Return: 0 if the last digit is zero and number otherwise
  *
  */
 
