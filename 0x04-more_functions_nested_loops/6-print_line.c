@@ -2,20 +2,19 @@
 
 /**
  * print_line - a function that draxs a straight line in the terminal
- * @n: input number of times to print '_'
- * Return: a straight line
+ * @n: number of times the character _ should be printed
  */
 void print_line(int n)
 {
-	int co;
-
 	if (n <= 0)
 	{
 		_putchar('\n');
 	}
 	else
 	{
-		for (co = 1; co <= n; co++)
+		int i;
+
+		for (i = 1; i <= n; i++)
 		{
 			_putchar('_');
 		}
