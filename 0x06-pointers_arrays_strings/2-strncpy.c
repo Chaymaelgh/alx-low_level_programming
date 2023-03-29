@@ -1,5 +1,3 @@
-es (25 sloc)  330 Bytes
-
 #include "main.h"
 /**
  * _strncpy - copy a string
